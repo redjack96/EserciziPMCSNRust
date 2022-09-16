@@ -1,0 +1,11 @@
+[package]
+name = "MioCodice"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[[bin]]
+name = "ssq1"
+path = "src/ssq1.rs"
+
+[dependencies]
